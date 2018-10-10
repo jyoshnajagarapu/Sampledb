@@ -1,4 +1,6 @@
 hi how are you divya.what are you doing now
 //change done on branch2
 //chages are made to check status
+<<<<<<< HEAD
 //change made after switching to master
+
